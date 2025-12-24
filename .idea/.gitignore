@@ -1,3 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/dataSources
+/compiler.xml
+/encodings.xml
+/jarRepositories.xml
+/dataSources.local.xml
+/dataSources.xml
